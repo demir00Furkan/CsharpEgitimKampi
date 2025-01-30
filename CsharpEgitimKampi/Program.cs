@@ -12,7 +12,7 @@ namespace CsharpEgitimKampi
         {
             #region Yazdırma komutları
             //Console.WriteLine("Selam");
-            // Console.Write("Merhaba Dünya");
+            //Console.Write("Merhaba Dünya");
 
             //Console.WriteLine("------- Yemek Kategorileri******");
             //Console.WriteLine("1-Çorbalar");
